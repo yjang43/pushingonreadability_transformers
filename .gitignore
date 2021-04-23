@@ -1,0 +1,12 @@
+*.ipynb
+.gitconfig
+.ipynb_checkpoints/
+*.csv
+__pycache__/
+checkpoint/
+data/
+logs/
+rent_please/
+search/
+tmp*
+archive/
