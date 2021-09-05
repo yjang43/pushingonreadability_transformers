@@ -2,6 +2,14 @@
 
 Python scripts to produce featrures from transformer architectures, later to be augmented along with hand-crafted features to classify Readability through classifiers including SVM, Random Forest, and Gradient Boosting.
 
+# Citation
+
+The code is dedicated to our published paper,
+
+> **Pushing on Readability: A Transformer Meets Handcrafted Linguistic Features**, EMNLP 2021.
+
+*Please cite our paper and provide link to this repository* if this code is used for your research.
+
 # Dataset
 
 The following datasets are used throughout the paper
